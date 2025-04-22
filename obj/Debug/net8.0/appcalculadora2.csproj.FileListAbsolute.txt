@@ -1,0 +1,14 @@
+D:\vsc\appcalculadora2\bin\Debug\net8.0\appcalculadora2.exe
+D:\vsc\appcalculadora2\bin\Debug\net8.0\appcalculadora2.deps.json
+D:\vsc\appcalculadora2\bin\Debug\net8.0\appcalculadora2.runtimeconfig.json
+D:\vsc\appcalculadora2\bin\Debug\net8.0\appcalculadora2.dll
+D:\vsc\appcalculadora2\bin\Debug\net8.0\appcalculadora2.pdb
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.AssemblyInfoInputs.cache
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.AssemblyInfo.cs
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.csproj.CoreCompileInputs.cache
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.dll
+D:\vsc\appcalculadora2\obj\Debug\net8.0\refint\appcalculadora2.dll
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.pdb
+D:\vsc\appcalculadora2\obj\Debug\net8.0\appcalculadora2.genruntimeconfig.cache
+D:\vsc\appcalculadora2\obj\Debug\net8.0\ref\appcalculadora2.dll
